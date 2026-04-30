@@ -20,8 +20,6 @@
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  border: none;
-  border-radius: 4px;
 }
 
 .hero-button:hover,
