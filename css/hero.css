@@ -26,5 +26,5 @@
 
 .hero-button:hover,
 .hero-button:focus {
-  background-color: #404bbf; /* Колір OCEAN при натисканні/наведенні */
+  background-color: #404bbf;
 }
